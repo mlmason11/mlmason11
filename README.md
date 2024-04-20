@@ -2,7 +2,7 @@
 
 Experienced in Python, Javascript, React.js, Flask, SQL, R, C++, and Java.
 In addition to recently graduating with a B.S. in Applied Mathematics from The City College of New York, I also graduated from the Flatiron School, a software engineering bootcamp in NYC where I got plenty of hands-on experience learning about and using these technologies and more.
-Passionate about creating software that enriches the lives of others, and eager to apply analytical skills and coding expertise in a dynamic software or data engineering role.
+I am passionate about creating software that enriches the lives of others, and eager to apply analytical skills and coding expertise in a dynamic software or data engineering role.
 
 
 
